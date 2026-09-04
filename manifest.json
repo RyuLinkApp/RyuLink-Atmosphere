@@ -1,0 +1,49 @@
+{
+  "manifestVersion": 1,
+  "packages": [
+    {
+      "targetFirmware": "22.5.0",
+      "packageVersion": "1.0.0",
+      "name": "大气层整合包",
+      "recommended": true,
+      "enabled": false,
+      "url": "",
+      "sha256": "",
+      "size": 0,
+      "description": "适配 Nintendo Switch 系统 22.5.0"
+    },
+    {
+      "targetFirmware": "21.2.0",
+      "packageVersion": "1.0.0",
+      "name": "大气层整合包",
+      "recommended": false,
+      "enabled": false,
+      "url": "",
+      "sha256": "",
+      "size": 0,
+      "description": "适配 Nintendo Switch 系统 21.2.0"
+    },
+    {
+      "targetFirmware": "20.5.0",
+      "packageVersion": "1.0.0",
+      "name": "大气层整合包",
+      "recommended": false,
+      "enabled": false,
+      "url": "",
+      "sha256": "",
+      "size": 0,
+      "description": "适配 Nintendo Switch 系统 20.5.0"
+    },
+    {
+      "targetFirmware": "19.0.1",
+      "packageVersion": "1.0.0",
+      "name": "大气层整合包",
+      "recommended": false,
+      "enabled": false,
+      "url": "",
+      "sha256": "",
+      "size": 0,
+      "description": "适配 Nintendo Switch 系统 19.0.1"
+    }
+  ]
+}
