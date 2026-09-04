@@ -6,11 +6,11 @@
       "packageVersion": "1.0.0",
       "name": "大气层整合包",
       "recommended": true,
-      "enabled": false,
+      "enabled": true,
       "fileName": "22.5.0.7z",
-      "url": "",
-      "sha256": "",
-      "size": 0,
+      "url": "https://github.com/RyuLinkApp/RyuLink-Atmosphere/releases/download/22.5.0/22.5.0.7z",
+      "sha256": "34984929eb53595aa36f6ab1277548f34fd81b976b045ed51a6e187763e954ce",
+      "size": 41422589,
       "description": "适配 Nintendo Switch 系统 22.5.0"
     },
     {
@@ -18,11 +18,11 @@
       "packageVersion": "1.0.0",
       "name": "大气层整合包",
       "recommended": false,
-      "enabled": false,
+      "enabled": true,
       "fileName": "21.2.0.7z",
-      "url": "",
-      "sha256": "",
-      "size": 0,
+      "url": "https://github.com/RyuLinkApp/RyuLink-Atmosphere/releases/download/21.2.0/21.2.0.7z",
+      "sha256": "6bfbc38cd960cd33ecb437cc1d023293fca2d1b8b2eb5594da1d4e1d9511e44b",
+      "size": 41943980,
       "description": "适配 Nintendo Switch 系统 21.2.0"
     },
     {
@@ -30,11 +30,11 @@
       "packageVersion": "1.0.0",
       "name": "大气层整合包",
       "recommended": false,
-      "enabled": false,
+      "enabled": true,
       "fileName": "20.5.0.7z",
-      "url": "",
-      "sha256": "",
-      "size": 0,
+      "url": "https://github.com/RyuLinkApp/RyuLink-Atmosphere/releases/download/20.5.0/20.5.0.7z",
+      "sha256": "5a6a875b4753efa2d41f7fdfc854630bb79075b57c97e3eb4054aca56096f85a",
+      "size": 91275760,
       "description": "适配 Nintendo Switch 系统 20.5.0"
     },
     {
@@ -42,11 +42,11 @@
       "packageVersion": "1.0.0",
       "name": "大气层整合包",
       "recommended": false,
-      "enabled": false,
+      "enabled": true,
       "fileName": "19.0.1.7z",
-      "url": "",
-      "sha256": "",
-      "size": 0,
+      "url": "https://github.com/RyuLinkApp/RyuLink-Atmosphere/releases/download/19.0.1/19.0.1.7z",
+      "sha256": "defcb0f49bd5fcd56709166b33ba83b2b6d753c8a09fe0b2d43c24b5b7675a93",
+      "size": 59219008,
       "description": "适配 Nintendo Switch 系统 19.0.1"
     }
   ]
